@@ -12,7 +12,7 @@ pipeline {
         CENTRAL_REPO = 'vpro-maven-central'
         NEXUS_IP = '172.31.44.93'
         NEXUS_PORT = '8081'
-        NEXUS_GROUP_REPO = 'vpro-maven-group'
+        NEXUS_GRP_REPO = 'vpro-maven-group'
         NEXUS_LOGIN = 'nexuslogin'
     }
     stages {
